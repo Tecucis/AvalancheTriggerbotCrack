@@ -1,5 +1,5 @@
 # Avalanche Triggerbot Crack
-Owner of this shit scammed me, so here it's. 
+Owner of this shit scammed me, so here it's! 
 At this moment it's undetectable.
 
 It's just crack of the loader - it can be patched pretty easy of owner of this shit (but I wonder this kid can do that lmao)
