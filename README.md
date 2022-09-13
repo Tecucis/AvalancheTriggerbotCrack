@@ -2,7 +2,7 @@
 Owner of this shit scammed me, so here it's! 
 At this moment it's undetectable.
 
-It's just crack of the loader - it can be patched pretty easy of owner of this shit (but I wonder this kid can do that lmao)?
+It's just crack of the loader - it can be patched pretty easy of owner of this shit (but I wonder this kid can do that lmao)
 
 virustotal: https://www.virustotal.com/gui/file/52d5e26c96024b1a911604c61b2f7ab091794388d99f55a67d742242145cde2e/detection
 (some false detections due to his "obfuscation"and because it operates similar to viruses eg. reading/writing from memory, hooking etc. some false positives shit.)
